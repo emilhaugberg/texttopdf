@@ -1,0 +1,17 @@
+.large
+.large
+.large
+This is a title
+
+.normal
+.normal
+.normal
+This is regular text
+
+.paragraph
+.paragraph
+.paragrap
+.bold
+.bold
+.bold
+This is bold text
