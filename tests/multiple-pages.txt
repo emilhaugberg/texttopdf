@@ -7,7 +7,7 @@ My PDF Document
 .paragraph
 This is my
 .italics
-  very first
+ very first
 .regular
 pdf document, and the output is formatted really well. While this paragraph is not filled, the following one has automatic filling set:
 .paragraph
@@ -20,7 +20,7 @@ Well that was
 .bold
  exciting
 .regular
- , good luck!
+, good luck!
 
 .large
 My PDF Document
@@ -28,7 +28,7 @@ My PDF Document
 .paragraph
 This is my
 .italics
-  very first
+ very first
 .regular
 pdf document, and the output is formatted really well. While this paragraph is not filled, the following one has automatic filling set:
 .paragraph
@@ -48,7 +48,7 @@ My PDF Document
 .paragraph
 This is my
 .italics
-  very first
+ very first
 .regular
 pdf document, and the output is formatted really well. While this paragraph is not filled, the following one has automatic filling set:
 .paragraph
@@ -61,7 +61,7 @@ Well that was
 .bold
  exciting
 .regular
- , good luck!
+, good luck!
 
 .large
 My PDF Document
@@ -69,7 +69,7 @@ My PDF Document
 .paragraph
 This is my
 .italics
-  very first
+ very first
 .regular
 pdf document, and the output is formatted really well. While this paragraph is not filled, the following one has automatic filling set:
 .paragraph
@@ -82,7 +82,7 @@ Well that was
 .bold
  exciting
 .regular
- , good luck!
+, good luck!
 
 .large
 My PDF Document
@@ -90,7 +90,7 @@ My PDF Document
 .paragraph
 This is my
 .italics
-  very first
+ very first
 .regular
 pdf document, and the output is formatted really well. While this paragraph is not filled, the following one has automatic filling set:
 .paragraph
@@ -103,7 +103,7 @@ Well that was
 .bold
  exciting
 .regular
- , good luck!
+, good luck!
 
 .large
 My PDF Document
@@ -111,7 +111,7 @@ My PDF Document
 .paragraph
 This is my
 .italics
-  very first
+ very first
 .regular
 pdf document, and the output is formatted really well. While this paragraph is not filled, the following one has automatic filling set:
 .paragraph
@@ -124,7 +124,7 @@ Well that was
 .bold
  exciting
 .regular
- , good luck!
+, good luck!
 
 .large
 My PDF Document
@@ -132,7 +132,7 @@ My PDF Document
 .paragraph
 This is my
 .italics
-  very first
+ very first
 .regular
 pdf document, and the output is formatted really well. While this paragraph is not filled, the following one has automatic filling set:
 .paragraph
@@ -145,4 +145,4 @@ Well that was
 .bold
  exciting
 .regular
- , good luck!
+, good luck!

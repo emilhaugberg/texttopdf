@@ -14,8 +14,8 @@ class FileToPDF {
      */
     public static void main(String[] args) {
         try {
-            String[] inputs = {"tests/test.txt", "tests/blank-lines.txt", "tests/multiple-pages.txt", "tests/repeating-commands.txt", "tests/unknown-commands.txt", "tests/indent.txt"};
-            String[] outputs = {"results/test.pdf", "results/blank-lines.pdf", "results/multiple-pages.pdf", "results/repeating-commands.pdf", "results/unknown-commands.pdf", "results/indent.pdf"};
+            String[] inputs = {"tests/main.txt", "tests/blank-lines.txt", "tests/multiple-pages.txt", "tests/repeating-commands.txt", "tests/unknown-commands.txt", "tests/indent.txt"};
+            String[] outputs = {"results/main.pdf", "results/blank-lines.pdf", "results/multiple-pages.pdf", "results/repeating-commands.pdf", "results/unknown-commands.pdf", "results/indent.pdf"};
 
             for (int i = 0; i < 6; i++) {
                 FileToPDF.fileToPDF(inputs[i], outputs[i]);
